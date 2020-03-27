@@ -1,0 +1,9 @@
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\bin\Debug\Praktikum1_fileStream.exe.config
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\bin\Debug\Praktikum1_fileStream.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\bin\Debug\Praktikum1_fileStream.pdb
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\obj\Debug\Praktikum1_fileStream.csprojResolveAssemblyReference.cache
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\obj\Debug\Praktikum1_fileStream.Form1.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\obj\Debug\Praktikum1_fileStream.Properties.Resources.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\obj\Debug\Praktikum1_fileStream.csproj.GenerateResource.Cache
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\obj\Debug\Praktikum1_fileStream.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum1_fileStream\Praktikum1 - File Stream\Praktikum1_fileStream\obj\Debug\Praktikum1_fileStream.pdb
